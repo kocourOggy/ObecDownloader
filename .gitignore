@@ -1,0 +1,11 @@
+# ignore all files
+*.*
+
+# but track .java
+!*.java
+
+# but track .xml
+!*.xml
+
+# but track .gitignore
+!*.gitignore
